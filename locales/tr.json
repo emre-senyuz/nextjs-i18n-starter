@@ -1,0 +1,123 @@
+{
+  "brand": "forma",
+  "brandLabel": "Forma stüdyo ana sayfa",
+  "nav": {
+    "home": "Ana sayfa",
+    "services": "Hizmetler",
+    "about": "Hakkımızda",
+    "contact": "Konuşalım",
+    "menu": "Gezinme menüsü",
+    "language": "Dili değiştir",
+    "skip": "İçeriğe geç",
+    "tr": "Türkçe",
+    "en": "English",
+    "trShort": "TR",
+    "enShort": "EN"
+  },
+  "meta": {
+    "home": {
+      "title": "Forma — Küçük stüdyo. Kalıcı etki.",
+      "description": "Markalara, web sitelerine ve dijital deneyimlere netlik kazandıran kurgusal bağımsız dijital stüdyo."
+    },
+    "services": {
+      "title": "Hizmetler — Forma",
+      "description": "Forma’dan marka stratejisi, özenli web tasarımı ve hızlı Next.js geliştirme hizmetleri."
+    },
+    "about": {
+      "title": "Hakkımızda — Forma",
+      "description": "Kurgusal bağımsız tasarım ve yazılım stüdyosu Forma’nın yaklaşımını keşfedin."
+    }
+  },
+  "home": {
+    "eyebrow": "Bağımsız dijital stüdyo",
+    "title": "İyi fikirler.\nÖzenle hayata geçer.",
+    "intro": "Cesur fikirleri özgün markalara ve dijital deneyimlere dönüştürüyoruz. Düşünerek tasarlıyor, özenle geliştiriyoruz.",
+    "primary": "Hizmetlerimizi keşfedin",
+    "secondary": "Bizi tanıyın",
+    "note": "Küçük bir ekip. Detaylara duyulan ortak bir tutku.",
+    "artLabel": "Soyut turuncu heykelsi kompozisyon",
+    "artCaption": "Tasarımda yeni bir bakış açısı.",
+    "sectionLabel": "01 / Neler yapıyoruz",
+    "sectionTitle": "İlk fikirden\nson piksele.",
+    "sectionText": "Strateji, tasarım ve kod. İlk günden birbirine bağlı; hiçbir detay yolda kaybolmasın diye.",
+    "allServices": "Tüm hizmetler"
+  },
+  "services": {
+    "eyebrow": "Uzmanlık alanlarımız",
+    "title": "Net düşünce.\nÖzenli uygulama.",
+    "intro": "İster yeni bir başlangıç yapın ister bir sonraki adıma hazırlanın; doğru yönü birlikte bulalım.",
+    "items": [
+      {
+        "title": "Marka ve strateji",
+        "text": "Sesinizi bulun, yönünüzü belirleyin ve akılda kalan bir kimlik oluşturun.",
+        "details": "Konumlandırma · Görsel kimlik · Marka rehberi"
+      },
+      {
+        "title": "Dijital deneyimler",
+        "text": "Güçlü bir bakış açısını gerçekten kullanışlı deneyimlerle buluşturan, sezgisel web siteleri.",
+        "details": "Kullanıcı araştırması · Arayüz tasarımı · Duyarlı sistemler"
+      },
+      {
+        "title": "Web geliştirme",
+        "text": "Zahmetsiz hissettiren, işinizle birlikte büyüyen hızlı ve erişilebilir web siteleri.",
+        "details": "Next.js · Erişilebilirlik · Performans"
+      }
+    ],
+    "processLabel": "02 / Nasıl çalışıyoruz",
+    "processTitle": "İyi işler bir\nsohbetle başlar.",
+    "steps": [
+      {
+        "title": "Keşfet",
+        "text": "Dinliyor, sorular soruyor ve başarının ne anlama geldiğini birlikte belirliyoruz."
+      },
+      {
+        "title": "Şekillendir",
+        "text": "Farklı yönleri keşfediyor, en güçlü fikri net bir sisteme dönüştürüyoruz."
+      },
+      {
+        "title": "Geliştir",
+        "text": "Fikri hayata geçiriyor, detayları inceltiyor ve güvenle teslim ediyoruz."
+      }
+    ]
+  },
+  "about": {
+    "eyebrow": "Stüdyo",
+    "title": "Bilerek küçüğüz.\nDoğuştan meraklıyız.",
+    "intro": "Forma, tasarım ve teknolojinin kesişiminde yer alan kurgusal bağımsız bir stüdyo. En iyi dijital işlerin insana dokunduğuna inanıyoruz.",
+    "label": "Bakış açımız",
+    "heading": "Daha az gürültü.\nDaha çok anlam.",
+    "body": "Strateji, tasarım ve geliştirmeyi aynı masada buluşturuyoruz. Yakın iş birliği, samimi sohbetler ve gerçekten önemli olan şeylere özenle yaklaşıyoruz.",
+    "values": [
+      {
+        "title": "Önce netlik",
+        "text": "İlk sohbetten son arayüze kadar karmaşık olanı anlaşılır hale getiriyoruz."
+      },
+      {
+        "title": "Özen bir alışkanlık",
+        "text": "Küçük şeyler birikir. Boşlukları, kelimeleri ve bir sayfanın hissettirdiklerini önemsiyoruz."
+      },
+      {
+        "title": "Birlikte daha iyi",
+        "text": "Açık bir şekilde çalışıyor, düşüncelerimizi paylaşıyor ve farklı bakış açılarına yer açıyoruz."
+      }
+    ]
+  },
+  "cta": {
+    "eyebrow": "Aklınızda bir fikir mi var?",
+    "title": "Birlikte anlamlı\nbir şey yapalım.",
+    "link": "Sohbeti başlatın",
+    "email": "hello@forma.example",
+    "subject": "Bir proje hakkında konuşalım"
+  },
+  "footer": {
+    "description": "Bağımsız düşünce. Özenli dijital deneyimler.",
+    "copyright": "© 2026 Forma Stüdyo",
+    "fictional": "Kurgusal bir stüdyo / Çok dilli başlangıç projesi",
+    "location": "İstanbul ↔ Her yer"
+  },
+  "notFound": {
+    "title": "Bu sayfa bulunamadı.",
+    "text": "Geri dönmek için desteklenen bir dil seçin.",
+    "home": "Ana sayfaya dön"
+  }
+}

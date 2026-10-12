@@ -1,0 +1,123 @@
+{
+  "brand": "forma",
+  "brandLabel": "Forma studio home",
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "contact": "Let’s talk",
+    "menu": "Navigation menu",
+    "language": "Change language",
+    "skip": "Skip to content",
+    "tr": "Türkçe",
+    "en": "English",
+    "trShort": "TR",
+    "enShort": "EN"
+  },
+  "meta": {
+    "home": {
+      "title": "Forma — Small studio. Lasting impact.",
+      "description": "A fictional independent digital studio bringing clarity to brands, websites, and digital experiences."
+    },
+    "services": {
+      "title": "Services — Forma",
+      "description": "Brand strategy, thoughtful web design, and fast Next.js development from Forma."
+    },
+    "about": {
+      "title": "About — Forma",
+      "description": "Meet the thinking behind Forma, a fictional independent digital design and development studio."
+    }
+  },
+  "home": {
+    "eyebrow": "Independent digital studio",
+    "title": "Good ideas.\nBeautifully made.",
+    "intro": "We turn ambitious ideas into distinctive brands and digital experiences. Thoughtfully designed. Carefully built.",
+    "primary": "Explore our services",
+    "secondary": "Get to know us",
+    "note": "A small team. A shared obsession with the details.",
+    "artLabel": "Abstract orange sculptural composition",
+    "artCaption": "A fresh perspective, by design.",
+    "sectionLabel": "01 / What we do",
+    "sectionTitle": "From first thought\nto final pixel.",
+    "sectionText": "Strategy, design, and code. Connected from day one, so nothing gets lost along the way.",
+    "allServices": "All services"
+  },
+  "services": {
+    "eyebrow": "Our expertise",
+    "title": "Clear thinking.\nConsidered execution.",
+    "intro": "Whether you’re starting something new or ready for your next chapter, we help you make the right next move.",
+    "items": [
+      {
+        "title": "Brand & strategy",
+        "text": "Find your voice, define your direction, and build an identity people remember.",
+        "details": "Positioning · Visual identity · Brand guidelines"
+      },
+      {
+        "title": "Digital experiences",
+        "text": "Intuitive websites that balance a strong point of view with a genuinely useful experience.",
+        "details": "UX research · Interface design · Responsive systems"
+      },
+      {
+        "title": "Web development",
+        "text": "Fast, accessible websites engineered to feel effortless and grow with your business.",
+        "details": "Next.js · Accessibility · Performance"
+      }
+    ],
+    "processLabel": "02 / How we work",
+    "processTitle": "Good work starts\nwith a conversation.",
+    "steps": [
+      {
+        "title": "Discover",
+        "text": "We listen, ask questions, and agree on what success looks like."
+      },
+      {
+        "title": "Shape",
+        "text": "We explore directions and turn the strongest idea into a clear system."
+      },
+      {
+        "title": "Build",
+        "text": "We bring it to life, refine the details, and prepare a confident handover."
+      }
+    ]
+  },
+  "about": {
+    "eyebrow": "The studio",
+    "title": "Small by choice.\nCurious by nature.",
+    "intro": "Forma is a fictional independent studio at the intersection of design and technology. We believe the best digital work feels human.",
+    "label": "Our point of view",
+    "heading": "Less noise.\nMore meaning.",
+    "body": "We bring strategy, design, and development to the same table. No long chains of handoffs. Just close collaboration, honest conversations, and care for the things that matter.",
+    "values": [
+      {
+        "title": "Clarity comes first",
+        "text": "We make the complicated feel simple, from the first conversation to the final interface."
+      },
+      {
+        "title": "Craft is a habit",
+        "text": "The small things add up. We care about the spacing, the words, and the way a page feels."
+      },
+      {
+        "title": "Better, together",
+        "text": "We work with you openly, share our thinking, and make room for a different perspective."
+      }
+    ]
+  },
+  "cta": {
+    "eyebrow": "Have something in mind?",
+    "title": "Let’s make\nsomething matter.",
+    "link": "Start a conversation",
+    "email": "hello@forma.example",
+    "subject": "Let’s talk about a project"
+  },
+  "footer": {
+    "description": "Independent thinking. Thoughtful digital experiences.",
+    "copyright": "© 2026 Forma Studio",
+    "fictional": "A fictional studio / An i18n starter",
+    "location": "Istanbul ↔ Everywhere"
+  },
+  "notFound": {
+    "title": "This page is missing.",
+    "text": "Choose a supported language to find your way back.",
+    "home": "Go to the homepage"
+  }
+}
