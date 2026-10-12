@@ -35,7 +35,9 @@ Set `SITE_URL` in `.env.local` to the public origin before deploying (see `.env.
 
 <!-- Screenshot placeholder: add docs/home-desktop.png after capturing the running app. -->
 
-_Screenshot placeholder — desktop Turkish home page and mobile English navigation._
+<img width="1902" height="907" alt="image" src="https://github.com/user-attachments/assets/5eac70f2-1f32-466b-9fcc-dafb4a83243a" />
+<img width="371" height="821" alt="image" src="https://github.com/user-attachments/assets/d1087b5b-073f-4fa3-bdee-502e0e846921" />
+
 
 ## Content changes
 
